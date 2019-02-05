@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /blog/wp-admin
+Disallow: /css
+Disallow: /img
+Disallow: /js
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://mrs1t.tk/sitemap.xml
